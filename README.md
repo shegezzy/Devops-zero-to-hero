@@ -61,20 +61,12 @@ Opening issues for suggestions
 Creating pull requests with improvements
 Sharing additional learning resources
 
-📝 License
-[https://github.com/akhileshmishrabiz/Devops-zero-to-hero/blob/main/LICENSE]
 
 ✨ Connect
 
-[LinkedIn profile: https://www.linkedin.com/in/akhilesh-mishra-0ab886124/]
+[LinkedIn profile: https://www.linkedin.com/in/shegezzy
 
-[Topmate: https://topmate.io/akhilesh_mishra/ ]
-
-[Twitter: https://x.com/livingdevops]
-
-[Medium: https://medium.com/@akhilesh-mishra ]
-
-[Website: https://livingdevops.com ]
+[Website: https://olusegunakinnola.netlify.app ]
 
 
 
